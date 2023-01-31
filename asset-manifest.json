@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-with-navbar/static/css/main.d43f71fd.css",
+    "main.js": "/todo-with-navbar/static/js/main.1623bbf0.js",
+    "index.html": "/todo-with-navbar/index.html",
+    "main.d43f71fd.css.map": "/todo-with-navbar/static/css/main.d43f71fd.css.map",
+    "main.1623bbf0.js.map": "/todo-with-navbar/static/js/main.1623bbf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43f71fd.css",
+    "static/js/main.1623bbf0.js"
+  ]
+}
